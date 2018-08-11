@@ -1,0 +1,3039 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mag WordPress Theme\n"
+"POT-Creation-Date: 2017-09-01 20:18+0300\n"
+"PO-Revision-Date: 2017-08-01 17:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: MNKY Studio\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "Sorry! We could not find your page. Perhaps searching can help."
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:25 comments.php:43
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:26 comments.php:44
+msgid "Newer Comments"
+msgstr ""
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#, php-format
+msgctxt "%1$s inserts line break"
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords. %1$s Type some text and hit enter."
+msgstr ""
+
+#: content-none.php:24
+#, php-format
+msgctxt "%1$s inserts line break"
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help. %1$s Type some text and hit enter."
+msgstr ""
+
+#: content-single.php:76 content-single.php:92 content-single.php:275
+#: page-left-sidebar.php:22 page-no-paddings.php:21 page-right-sidebar.php:22
+#: page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:158 inc/custom-functions.php:178
+#: inc/custom-functions.php:221 review.php:55
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: content-single.php:241 content.php:145 content.php:181 content.php:213
+#: inc/custom-functions.php:182
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: content.php:65
+msgid "Photos"
+msgstr ""
+
+#: content.php:67
+msgid "Video"
+msgstr ""
+
+#: content.php:69
+msgid "Link"
+msgstr ""
+
+#: content.php:154 content.php:190 content.php:222
+msgid "Read more"
+msgstr ""
+
+#: footer.php:10
+msgid "Menu"
+msgstr ""
+
+#: functions.php:101
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:16
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:18
+#, php-format
+msgid ""
+"Below you can import demo data and find some useful information. Get ready "
+"to create something beautiful with %s!"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:20
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:24
+msgid "Importing demo data... This may take a while, please wait!"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:28
+msgid "Demo data successfully imported. You are good to go!"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:32
+msgid "All done!"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:36
+#, php-format
+msgid "To import theme demo data please install and activate %s plugin first."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:39 inc/admin/index.php:6
+msgid "Install Demo"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:49 inc/tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:57
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:61
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:63
+msgid "Read online documentation to learn everything about the theme."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:64
+msgid "Read documentation"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:71
+msgid "Go to theme options panel to adjust theme settings."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:72
+msgid "Customize theme"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:76
+msgid "Help desk"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:78
+msgid "Visit our support forums to ask questions and get the answers."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:79
+msgid "Receive support"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:86
+msgid "Server Info"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:90
+msgid "Home URL"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:91
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:95
+msgid "Site URL"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:96
+msgid "The root URL of your site."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:100
+msgid "WP Version"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:101
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:105
+msgid "WP Memory Limit"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:106
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:116
+#, php-format
+msgid "%s - We recommend setting memory to at least 64MB. See: %s"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:116
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:125
+msgid "PHP Version"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:126
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:133
+#, php-format
+msgid "%s - We recommend a minimum PHP version of 5.6. See: %s"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:133
+msgid "Current recommended PHP version"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:138
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:144
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:145
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:149
+msgid "PHP Time Limit"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:150
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:154
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:155
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:160
+msgid "MySQL Version"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:161
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:171
+msgid "Max Upload Size"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:172
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:176
+msgid "ZipArchive:"
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:177
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:178
+msgid ""
+"ZipArchive is not installed on your server, but is required if you need to "
+"import demo content."
+msgstr ""
+
+#: inc/admin/admin-pages/welcome.php:186
+#, php-format
+msgid "Thank you for choosing %s"
+msgstr ""
+
+#: inc/custom-functions.php:53
+msgid "Just now"
+msgstr ""
+
+#: inc/custom-functions.php:55
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/custom-functions.php:57 inc/custom-functions.php:61
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/custom-functions.php:294
+msgid "Previous Article"
+msgstr ""
+
+#: inc/custom-functions.php:295
+msgid "Next Article"
+msgstr ""
+
+#: inc/sidebars.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:12
+msgid "Appears in blog layout"
+msgstr ""
+
+#: inc/sidebars.php:20
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:22
+msgid "Appears in single posts"
+msgstr ""
+
+#: inc/sidebars.php:30
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Appears as default sidebar on pages"
+msgstr ""
+
+#: inc/sidebars.php:40
+msgid "Single Post Header Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:42
+msgid "Appears in single post header"
+msgstr ""
+
+#: inc/sidebars.php:50
+msgid "Single Post Content Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:52
+msgid "Appears within single post content"
+msgstr ""
+
+#: inc/sidebars.php:60
+msgid "Single Post Content Sidebar Top"
+msgstr ""
+
+#: inc/sidebars.php:62
+msgid "Appears before single post content"
+msgstr ""
+
+#: inc/sidebars.php:70
+msgid "Single Post Content Sidebar Bottom"
+msgstr ""
+
+#: inc/sidebars.php:72
+msgid "Appears after single post content"
+msgstr ""
+
+#: inc/sidebars.php:80
+msgid "Before Single Post Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:82
+msgid "Appears above single post content and sidebar"
+msgstr ""
+
+#: inc/sidebars.php:90
+msgid "After Single Post Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:92
+msgid "Appears after single post"
+msgstr ""
+
+#: inc/sidebars.php:100 inc/theme-options-extend/theme-options.php:747
+msgid "Overlay Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:102
+msgid "Appears in full-screen overlay"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Side Navigation Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:111
+msgid "Appears in side menu after the navigation"
+msgstr ""
+
+#: inc/sidebars.php:119
+msgid "Top Bar Sidebar Left"
+msgstr ""
+
+#: inc/sidebars.php:121
+msgid "Top bar widget area (align left)"
+msgstr ""
+
+#: inc/sidebars.php:129
+msgid "Top Bar Sidebar Right"
+msgstr ""
+
+#: inc/sidebars.php:131
+msgid "Top bar widget area (align right)"
+msgstr ""
+
+#: inc/sidebars.php:139
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/sidebars.php:141 inc/sidebars.php:151 inc/sidebars.php:161
+#: inc/sidebars.php:171 inc/sidebars.php:221
+msgid "Appears in the footer section"
+msgstr ""
+
+#: inc/sidebars.php:149
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/sidebars.php:159
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/sidebars.php:169
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: inc/sidebars.php:179
+msgid "Footer Second Level Sidebar 1"
+msgstr ""
+
+#: inc/sidebars.php:181 inc/sidebars.php:191 inc/sidebars.php:201
+#: inc/sidebars.php:211
+msgid "Appears on second row of the footer section"
+msgstr ""
+
+#: inc/sidebars.php:189
+msgid "Footer Second Level Sidebar 2"
+msgstr ""
+
+#: inc/sidebars.php:199
+msgid "Footer Second Level Sidebar 3"
+msgstr ""
+
+#: inc/sidebars.php:209
+msgid "Footer Second Level Sidebar 4"
+msgstr ""
+
+#: inc/sidebars.php:219
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/sidebars.php:229
+msgid "Mobile Header Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:231
+msgid "Mobile header widget area"
+msgstr ""
+
+#: inc/sidebars.php:239
+msgid "Mobile Menu Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:241
+msgid "Mobile menu widget area"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:393 inc/tgm-plugin-activation.php:912
+#: inc/tgm-plugin-activation.php:2618 inc/tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:394 inc/tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:395 inc/tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:1019 inc/tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:1206 inc/tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3594 inc/tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3594 inc/tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:17
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:26
+msgid "Mag | Theme Core Extend"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:35
+msgid "Easy Social Share Buttons for WordPress"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:44
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:50
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:56
+msgid "PhotoSwipe Light"
+msgstr ""
+
+#: inc/tgm-register-plugins.php:62
+msgid "Envato Toolkit"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:10
+msgid "Add a title only you will see. This makes it easier to drag & drop."
+msgstr ""
+
+#: inc/theme-options-extend/config.php:43
+#: inc/theme-options-extend/config.php:63
+#: inc/theme-options-extend/config.php:78
+#: inc/theme-options-extend/config.php:98
+#: inc/theme-options-extend/config.php:122
+#: inc/theme-options-extend/config.php:188
+#: inc/theme-options-extend/config.php:193
+msgid "Full width"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:48
+#: inc/theme-options-extend/config.php:68
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:58
+#: inc/theme-options-extend/config.php:142
+#: inc/theme-options-extend/config.php:167
+#: inc/theme-options-extend/theme-options.php:3642
+msgid "Default"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:83
+#: inc/theme-options-extend/config.php:103
+#: inc/theme-options-extend/config.php:127
+#: inc/theme-options-extend/config.php:198
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:88
+#: inc/theme-options-extend/config.php:108
+#: inc/theme-options-extend/config.php:132
+#: inc/theme-options-extend/config.php:203
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:117
+msgid "Default (Selected in theme options panel)"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:147
+msgid "Simple"
+msgstr ""
+
+#: inc/theme-options-extend/config.php:152
+#: inc/theme-options-extend/config.php:157
+#: inc/theme-options-extend/config.php:172
+#: inc/theme-options-extend/config.php:177
+msgid "Custom Style"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:15
+msgid "Page Options"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:23
+#: inc/theme-options-extend/meta-boxes.php:281
+#: inc/theme-options-extend/theme-options.php:175
+#: inc/theme-options-extend/theme-options.php:2271
+#: inc/theme-options-extend/theme-options.php:2801
+msgid "General"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:29
+#: inc/theme-options-extend/meta-boxes.php:287
+msgid "Custom theme accent color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:31
+#: inc/theme-options-extend/meta-boxes.php:289
+msgid ""
+"Set different accent color for this page. Leave blank for default color."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:36
+#: inc/theme-options-extend/meta-boxes.php:294
+msgid "Custom contrast color for theme accent color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:38
+#: inc/theme-options-extend/meta-boxes.php:296
+msgid ""
+"Set different contrast color for accent color. Leave blank for default color."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:44
+#: inc/theme-options-extend/meta-boxes.php:302
+#: inc/theme-options-extend/theme-options.php:100
+msgid "Layout style"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:45
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid "1. Default layout %1$s 2. Full width layout %1$s 3. Boxed layout"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:51
+#: inc/theme-options-extend/meta-boxes.php:310
+#: inc/theme-options-extend/theme-options.php:115
+msgid "Body background"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:52
+#: inc/theme-options-extend/meta-boxes.php:311
+#: inc/theme-options-extend/theme-options.php:116
+msgid "Choose body background for boxed layout."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:59
+#: inc/theme-options-extend/meta-boxes.php:319
+#: inc/theme-options-extend/theme-options.php:130
+msgid "Content width"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:60
+#: inc/theme-options-extend/meta-boxes.php:320
+msgid ""
+"This setting will apply selected layout width to your website. Leave empty "
+"for default."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:66
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:73
+#: inc/theme-options-extend/theme-options.php:220
+msgid "Sticky header"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:74
+#: inc/theme-options-extend/theme-options.php:221
+msgid "Do you want a header to stick to top while you scroll?"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:82
+msgid "Default (set in Theme Options)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:87
+#: inc/theme-options-extend/theme-options.php:235
+msgid "Smart header (sticky only when scrolling up)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:92
+#: inc/theme-options-extend/theme-options.php:240
+msgid "Always sticky header"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:97
+#: inc/theme-options-extend/theme-options.php:245
+msgid "Disable sticky header"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:103
+#: inc/theme-options-extend/meta-boxes.php:326
+#: inc/theme-options-extend/theme-options.php:567
+msgid "Top bar"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:106
+#: inc/theme-options-extend/meta-boxes.php:329
+msgid ""
+"Disable top bar on this page only. If top bar is not enabled in theme "
+"options, this setting has no effect."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:110
+msgid "Overlay header"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:113
+msgid ""
+"Enable overlay header on this page. Overlay header is configured in Theme "
+"Options/Header options/Overlay Header."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:117
+msgid "Page title"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:120
+msgid "Display or hide page title."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:124
+#: inc/theme-options-extend/theme-options.php:2846
+#: inc/theme-options-extend/theme-options.php:3497
+msgid "Custom page title styles"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:127
+msgid "Use custom page title styles for this page."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:132
+#: inc/theme-options-extend/theme-options.php:1239
+#: inc/theme-options-extend/theme-options.php:2861
+#: inc/theme-options-extend/theme-options.php:3511
+msgid "Title area paddings"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:135
+#: inc/theme-options-extend/theme-options.php:1240
+#: inc/theme-options-extend/theme-options.php:2862
+#: inc/theme-options-extend/theme-options.php:3512
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Set custom paddings for title area. Use shorthand format and add size units, "
+"e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:141
+#: inc/theme-options-extend/theme-options.php:1254
+#: inc/theme-options-extend/theme-options.php:2876
+#: inc/theme-options-extend/theme-options.php:3525
+msgid "Title color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:144
+msgid "Choose custom title text color."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:150
+#: inc/theme-options-extend/theme-options.php:582
+#: inc/theme-options-extend/theme-options.php:762
+#: inc/theme-options-extend/theme-options.php:1269
+#: inc/theme-options-extend/theme-options.php:2891
+#: inc/theme-options-extend/theme-options.php:3539
+msgid "Background color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:153
+msgid "Choose custom background color for page title."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:159
+#: inc/theme-options-extend/theme-options.php:1284
+#: inc/theme-options-extend/theme-options.php:2906
+#: inc/theme-options-extend/theme-options.php:3553
+msgid "Enable gradient background"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:162
+#: inc/theme-options-extend/theme-options.php:1285
+#: inc/theme-options-extend/theme-options.php:2907
+#: inc/theme-options-extend/theme-options.php:3554
+msgid "Enables left to right gradient background for page title area."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:168
+#: inc/theme-options-extend/theme-options.php:1298
+#: inc/theme-options-extend/theme-options.php:2921
+#: inc/theme-options-extend/theme-options.php:3567
+msgid "Gradient start color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:171
+msgid "Choose custom color at gradient start."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:177
+#: inc/theme-options-extend/theme-options.php:1313
+#: inc/theme-options-extend/theme-options.php:2936
+#: inc/theme-options-extend/theme-options.php:3581
+msgid "Gradient end color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:180
+msgid "Choose custom color at gradient end."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:186
+#: inc/theme-options-extend/theme-options.php:1328
+#: inc/theme-options-extend/theme-options.php:2951
+#: inc/theme-options-extend/theme-options.php:3595
+msgid "Enable background image"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:189
+#: inc/theme-options-extend/theme-options.php:1329
+#: inc/theme-options-extend/theme-options.php:2952
+#: inc/theme-options-extend/theme-options.php:3596
+msgid "Enables background image for title area."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:195
+msgid "Page title background image"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:198
+msgid "Set custom background image for title area."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:205
+#: inc/theme-options-extend/meta-boxes.php:476
+msgid "Pre-content"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:211
+#: inc/theme-options-extend/meta-boxes.php:482
+#: inc/theme-options-extend/theme-options.php:2981
+#: inc/theme-options-extend/theme-options.php:3802
+msgid "Pre-content area"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:214
+#: inc/theme-options-extend/meta-boxes.php:485
+#: inc/theme-options-extend/theme-options.php:2982
+#: inc/theme-options-extend/theme-options.php:3803
+msgid "Activates additional area before page title and main content."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:218
+#: inc/theme-options-extend/meta-boxes.php:489
+#: inc/theme-options-extend/theme-options.php:2996
+#: inc/theme-options-extend/theme-options.php:3816
+msgid "Height (optional)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:221
+#: inc/theme-options-extend/meta-boxes.php:492
+#: inc/theme-options-extend/theme-options.php:2997
+#: inc/theme-options-extend/theme-options.php:3817
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid "Pre-content area height. Example: %s"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:226
+#: inc/theme-options-extend/meta-boxes.php:497
+#: inc/theme-options-extend/theme-options.php:3011
+#: inc/theme-options-extend/theme-options.php:3830
+msgid "Responsive height (optional)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:229
+#: inc/theme-options-extend/meta-boxes.php:500
+#: inc/theme-options-extend/theme-options.php:3012
+#: inc/theme-options-extend/theme-options.php:3831
+msgid "Enables auto height in responsive mode."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:235
+#: inc/theme-options-extend/meta-boxes.php:506
+#: inc/theme-options-extend/theme-options.php:3026
+#: inc/theme-options-extend/theme-options.php:3844
+msgid "Max width (optional)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:238
+#: inc/theme-options-extend/meta-boxes.php:509
+#: inc/theme-options-extend/theme-options.php:3027
+#: inc/theme-options-extend/theme-options.php:3845
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid "Pre-content area max width. Example: %s"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:243
+#: inc/theme-options-extend/meta-boxes.php:514
+#: inc/theme-options-extend/theme-options.php:3041
+#: inc/theme-options-extend/theme-options.php:3858
+msgid "Paddings (optional)"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:246
+#: inc/theme-options-extend/meta-boxes.php:517
+#: inc/theme-options-extend/theme-options.php:3042
+#: inc/theme-options-extend/theme-options.php:3859
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid "Pre-content area paddings. Example: %s"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:252
+#: inc/theme-options-extend/meta-boxes.php:523
+#: inc/theme-options-extend/theme-options.php:939
+#: inc/theme-options-extend/theme-options.php:1074
+#: inc/theme-options-extend/theme-options.php:1851
+#: inc/theme-options-extend/theme-options.php:2196
+#: inc/theme-options-extend/theme-options.php:3056
+#: inc/theme-options-extend/theme-options.php:3872
+msgid "Background"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:253
+#: inc/theme-options-extend/meta-boxes.php:524
+#: inc/theme-options-extend/theme-options.php:3057
+#: inc/theme-options-extend/theme-options.php:3873
+msgid "Set custom background color or image."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:260
+#: inc/theme-options-extend/meta-boxes.php:531
+#: inc/theme-options-extend/theme-options.php:3071
+#: inc/theme-options-extend/theme-options.php:3886
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:264
+#: inc/theme-options-extend/meta-boxes.php:535
+#: inc/theme-options-extend/theme-options.php:3887
+msgid "Insert any custom code you wish. Shortcodes are allowed."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:273
+msgid "Post Options"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:303
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Default layout %1$s Selected in Appearance / Theme Options / General "
+"Options %1$s%1$s 2. Full width layout %1$s3. Boxed layout"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:334
+msgid "Post settings"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:341
+msgid "Lead content"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:342
+msgid ""
+"Optional content displayed below the title. Shortcode enabled. It will not "
+"be included into post excerpt."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:349
+msgid "Header style"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:350
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Default style %1$s Selected in Appearance / Theme Options / Single Post "
+"%1$s%1$s 2. Simple style %1$s 3. Featured image in pre-content area %1$s 4. "
+"Featured image with title overlay in pre-content area  %1$s %1$s%1$s To "
+"customize activate pre-content area"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:355
+#: inc/theme-options-extend/theme-options.php:2316
+msgid "Title position"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:361
+#: inc/theme-options-extend/theme-options.php:2179
+#: inc/theme-options-extend/theme-options.php:2331
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:366
+#: inc/theme-options-extend/theme-options.php:2184
+#: inc/theme-options-extend/theme-options.php:2336
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:371
+#: inc/theme-options-extend/theme-options.php:2189
+#: inc/theme-options-extend/theme-options.php:2341
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:377
+#: inc/theme-options-extend/theme-options.php:2317
+msgid "Choose title position"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:380
+#: inc/theme-options-extend/theme-options.php:2348
+msgid "Gradient for background image"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:385
+msgid "Activates gradient overlay for background image."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:388
+msgid "Post title area"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:391
+msgid ""
+"Enable or disable title area for this post. Includes title, category links "
+"and post labels."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:395
+msgid "Featured image after title"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:398
+msgid "Do you want to display featured image after title in content?"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:402
+msgid "Post content sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:405
+#: inc/theme-options-extend/theme-options.php:2407
+msgid ""
+"Do you want to display sidebar within post content? Add widgets in "
+"Appearance/Widgets - \"Single Post Content Sidebar\"."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:410
+msgid "Inherit from theme options"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:415
+msgid "Enable"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:420
+msgid "Disable"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:427
+msgid "Template"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:434
+#: inc/theme-options-extend/theme-options.php:2363
+msgid "Set different width for paragraphs"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:438
+#: inc/theme-options-extend/theme-options.php:2364
+msgid ""
+"Specify maximum width for text paragraphs without affecting other content , "
+"e.g., images."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:441
+msgid "Post labels"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:445
+msgid "Add some labels to the post, e.g., \"Sponsored Content\"."
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:449
+msgid "Label text"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:457
+msgid "Choose label background color"
+msgstr ""
+
+#: inc/theme-options-extend/meta-boxes.php:465
+msgid "Choose label text color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:32
+msgid "General Options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:36
+msgid "Header Options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:40
+msgid "Menu Options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:44
+msgid "Content Visuals"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:48
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:52
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:56
+msgid "Single Post"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:60
+msgid "Blog  Options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:64
+msgid "Categories"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:70
+msgid "Theme accent color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:71
+msgid ""
+"This will be general color scheme for your website. Click input field for "
+"color picker."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:85
+msgid "Contrast color for theme accent color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:86
+msgid ""
+"This will be contrast color for elements that are on \"accent color\" "
+"colored background."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:101
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid "1. Full width layout %1$s 2. Boxed layout"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:131
+msgid ""
+"This setting will apply selected layout width in pixels to your website."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:145
+msgid "Sticky sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:146
+msgid "If enabled, sidebar will always be visible while you scroll."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:160
+msgid "Scroll to top button"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:161
+msgid "Enable or disable \"To Top\" button when you scroll down."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:190
+msgid "Header height"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:191
+#: inc/theme-options-extend/theme-options.php:403
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid "Set header height. Please add size units, e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:205
+msgid "Header background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:206
+msgid "Choose your site header color."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:252
+msgid "Full width header"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:253
+msgid ""
+"If not active, header will be the same width as your chosen content width."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:267
+msgid "Header shadow line"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:268
+msgid "Adds bottom shadow line to the default header."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:282
+msgid "Search button in menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:283
+msgid "Enables or disables search from menu."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:297
+#: inc/theme-options-extend/theme-options.php:312
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:313
+#: inc/theme-options-extend/theme-options.php:478
+#: inc/theme-options-extend/theme-options.php:688
+msgid "Please choose an image file for your logo."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:327
+msgid "Logo (Retina version @2x)"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:328
+#: inc/theme-options-extend/theme-options.php:493
+#: inc/theme-options-extend/theme-options.php:703
+#, php-format
+msgctxt "%s stands for the value. Do not delete it."
+msgid ""
+"Retina logo should be %s the size of default logo keeping the aspect ratio!"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:342
+msgid "Standard logo width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:343
+#: inc/theme-options-extend/theme-options.php:718
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for example value."
+msgid ""
+"Please enter the STANDARD (1x) logo width. %1$s Remember to add %2$s value "
+"in the end. Example: %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:357
+msgid "Standard logo height"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:358
+#: inc/theme-options-extend/theme-options.php:733
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for example value."
+msgid ""
+"Please enter the STANDARD (1x) logo height. %1$s Remember to add %2$s value "
+"in the end. Example: %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:372
+msgid "Margin top"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:373
+#: inc/theme-options-extend/theme-options.php:538
+#, php-format
+msgctxt "%1$s and %2$s stand for example value. Do not delete it."
+msgid ""
+"Move your logo vertically with this option. Remember to add %1$s value after "
+"the number. For example: %2$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:387
+msgid "Overlay Header"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:402
+msgid "Overlay header height"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:417
+msgid "Detached header?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:418
+msgid "Detaches header from top and applies boxed style to it."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:432
+msgid "Deteached overlay header background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:433
+msgid "Choose background color for detached header."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:447
+msgid "Overlay header background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:448
+msgid "Transparent by default."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:462
+msgid "Sticky menu background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:463
+msgid "Sticky menu background should contrast menu link color."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:477
+msgid "Overlay header logo"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:492
+msgid "Overlay header logo (Retina version @2x)"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:507
+msgid "Overlay header logo width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:508
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for example value."
+msgid ""
+"Please enter the STANDARD (1x) overlay logo width. %1$s Remember to add %2$s "
+"value in the end. Example: %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:522
+msgid "Overlay header logo height"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:523
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for example value."
+msgid ""
+"Please enter the STANDARD (1x) overlay logo height. %1$s Remember to add "
+"%2$s value in the end. Example: %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:537
+msgid "Overlay header logo margin top"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:552
+msgid "Top Bar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:568
+msgid ""
+"Top bar appears above the header. If activated, new widget areas appear in "
+"Appearance/Widgets - \"Top Bar Sidebar Left\" and \"Top Bar Sidebar Right\"."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:583
+#: inc/theme-options-extend/theme-options.php:598
+#: inc/theme-options-extend/theme-options.php:613
+#: inc/theme-options-extend/theme-options.php:628
+#: inc/theme-options-extend/theme-options.php:763
+#: inc/theme-options-extend/theme-options.php:777
+#: inc/theme-options-extend/theme-options.php:791
+#: inc/theme-options-extend/theme-options.php:820
+#: inc/theme-options-extend/theme-options.php:1030
+msgid "Click input field for color picker or enter your custom value."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:597
+#: inc/theme-options-extend/theme-options.php:1372
+#: inc/theme-options-extend/theme-options.php:1866
+#: inc/theme-options-extend/theme-options.php:2226
+msgid "Text color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:612
+#: inc/theme-options-extend/theme-options.php:1119
+#: inc/theme-options-extend/theme-options.php:1387
+#: inc/theme-options-extend/theme-options.php:1881
+#: inc/theme-options-extend/theme-options.php:2241
+msgid "Link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:627
+#: inc/theme-options-extend/theme-options.php:790
+#: inc/theme-options-extend/theme-options.php:1134
+#: inc/theme-options-extend/theme-options.php:1402
+#: inc/theme-options-extend/theme-options.php:1896
+#: inc/theme-options-extend/theme-options.php:2256
+msgid "Link hover color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:642
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:657
+msgid "Mobile menu background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:658
+msgid "Choose background color for mobile menu."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:672
+msgid "Mobile menu toggle and header text color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:673
+msgid ""
+"Choose color for mobile menu toggle icon and other content in mobile header."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:687
+msgid "Mobile logo"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:702
+msgid "Mobile Logo (Retina version @2x)"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:717
+msgid "Mobile logo width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:732
+msgid "Mobile logo height"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:776
+msgid "Text and link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:804
+msgid "Header Menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:819
+msgid "Menu link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:834
+msgid "Menu link hover & active color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:835
+#: inc/theme-options-extend/theme-options.php:985
+#: inc/theme-options-extend/theme-options.php:1045
+#: inc/theme-options-extend/theme-options.php:1403
+#: inc/theme-options-extend/theme-options.php:2257
+msgid "Leave empty to use \"Theme accent color\"."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:849
+msgid "Show submenu options?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:850
+msgid "Enable submenu styling."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:864
+msgid "Submenu section title"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:865
+msgid "<div class=\"section-title\">Submenu options</div>"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:879
+msgid "Submenu background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:880
+msgid "Color background color for submenu."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:894
+msgid "Submenu link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:895
+msgid "Color for links in submenu. Leave blank for default color."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:909
+msgid "Submenu link hover & active background color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:910
+msgid "Background color for submenu link hover."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:924
+msgid "Megamenu section title"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:925
+msgid "Mega-menu options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:940
+msgid ""
+"You can either use color or upload a background image. Leave blank to "
+"inherit from submenu options."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:954
+msgid "Megamenu title color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:955
+msgid "Color for column title in megamenu."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:969
+msgid "Megamenu link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:970
+msgid "Color for links in megamenu. Leave blank to inherit from submenu."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:984
+msgid "Megamenu hover & active item color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:999
+msgid "Megamenu column separator color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1000
+msgid "Leave empty for default color."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1014
+msgid "Overlay Header Menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1029
+msgid "Overlay header menu link color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1044
+msgid "Overlay header menu link hover & active color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1059
+msgid "Side Menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1075
+#: inc/theme-options-extend/theme-options.php:1852
+#: inc/theme-options-extend/theme-options.php:2197
+msgid ""
+"You can either use color or upload a background image. Leave blank for "
+"default setting."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1089
+msgid "Border color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1090
+msgid "Choose side border color for side navigation."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1104
+msgid "Text and title color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1105
+msgid "Choose color for side navigation text and titles."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1120
+msgid "Choose color for side navigation links."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1135
+msgid "Choose hover color for side navigation links."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1149
+msgid "Global"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1164
+msgid "Body text color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1165
+msgid "General color for all body content."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1179
+msgid "Headings (H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1180
+msgid ""
+"Color for heading tags. Applies for all heading elements, if different color "
+"is not specified in element styling."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1194
+msgid "Theme button color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1195
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"Choose color for general theme buttons. %1$s Leave empty for \"Theme accent "
+"Color\""
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1209
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1210
+msgid "Text color inside theme buttons."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1224
+msgid "Page Heading"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1255
+#: inc/theme-options-extend/theme-options.php:2877
+#: inc/theme-options-extend/theme-options.php:3526
+msgid "Choose text color for page title."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1270
+#: inc/theme-options-extend/theme-options.php:2892
+#: inc/theme-options-extend/theme-options.php:3540
+msgid "Choose background color for page title area."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1299
+#: inc/theme-options-extend/theme-options.php:2922
+#: inc/theme-options-extend/theme-options.php:3568
+msgid "Choose color at gradient start."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1314
+#: inc/theme-options-extend/theme-options.php:2937
+#: inc/theme-options-extend/theme-options.php:3582
+msgid "Choose color at gradient end."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1342
+#: inc/theme-options-extend/theme-options.php:2966
+#: inc/theme-options-extend/theme-options.php:3609
+msgid "Title area background image"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1343
+#: inc/theme-options-extend/theme-options.php:2967
+#: inc/theme-options-extend/theme-options.php:3610
+msgid "Choose background image for the title area."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1357
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1373
+msgid "Choose text color for sidebar widget content."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1388
+msgid "Choose color for links in sidebar."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1417
+#: inc/theme-options-extend/theme-options.php:1910
+msgid "Widget title color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1418
+msgid "Color for widget titles in sidebar."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1432
+msgid "Widget divider color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1433
+msgid "Choose border line color separating list items in sidebar."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1447
+msgid "Articles"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1462
+msgid "Post views"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1463
+msgid "Choose color for post views number and icon."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1477
+msgid "Submenu section info"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1478
+msgid "<div class=\"section-title\">Content over image article style</div>"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1492
+msgid "Overlay article style background"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1493
+msgid "Choose background color for content in overlay style articles."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1507
+msgid "Overlay article style content color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1508
+msgid "Choose text and link color for content in overlay style articles."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1522
+msgid "Overlay article link hover"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1523
+msgid "Choose hover color for links in overlay style articles."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1537
+msgid "Custom fonts"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1552
+msgid "Add Google fonts"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1553
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Click \"Add Google Font\". %1$s 2. Choose your font and options. %1$s 3. "
+"Save the options. %1$s 4. Assign your new font to elements below."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1567
+msgid "Body font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1582
+msgid "Menu font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1597
+msgid "Side menu font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1612
+msgid "Heading font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1627
+msgid "Single post font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1641
+msgid "Widget title font"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1656
+msgid "Font sizes"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1671
+msgid "Body"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1672
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"General body font size. %1$s Remember to add %2$s px %3$s value after the "
+"number. For example: %2$s 16px %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1686
+msgid "Single post"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1687
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Single post content font size. %1$s Remember to add %2$s px %3$s value after "
+"the number. For example: %2$s 16px %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1701
+msgid "Menu in header bar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1702
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"General menu font size. %1$s Remember to add %2$s px %3$s value after the "
+"number. For example: %2$s 13px %3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1716
+msgid "Side menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1717
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Choose size for overlay or side menu, depending on what you use. %1$s "
+"Remember to add %2$s px %3$s value after the number. For example: %2$s 13px "
+"%3$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1731
+msgid "Sub menu"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1732
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Submenu link font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1746
+msgid "H1"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1747
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 1 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1761
+msgid "H2"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1762
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 2 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1776
+msgid "H3"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1777
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 3 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1791
+msgid "H4"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1792
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 4 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1806
+msgid "H5"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1807
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 5 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1821
+msgid "H6"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1822
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <code> tags"
+msgid ""
+"Heading 6 tag font size. %1$s Remember to add %2$s px %3$s value after the "
+"number."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1836
+msgid "Footer Colors"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1867
+msgid "Choose text color for your footer widget content."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1882
+msgid "Will apply color to all links located in footer widgets."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1897
+msgid "Hover color for all links in footer widgets.\"."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1911
+msgid "Color for widget titles in footer."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1925
+msgid "Footer First Level"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1940
+#: inc/theme-options-extend/theme-options.php:2052
+msgid "Column count"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1941
+#: inc/theme-options-extend/theme-options.php:2053
+msgid "Choose column count for your footer."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1955
+#: inc/theme-options-extend/theme-options.php:2067
+msgid "1"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1960
+#: inc/theme-options-extend/theme-options.php:2072
+msgid "2"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1965
+#: inc/theme-options-extend/theme-options.php:2077
+msgid "3"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1970
+#: inc/theme-options-extend/theme-options.php:2082
+msgid "4"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1977
+#: inc/theme-options-extend/theme-options.php:2089
+msgid "Footer column 1 width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1978
+#: inc/theme-options-extend/theme-options.php:2090
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Enter custom width for first footer column. Please enter percentage, e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1992
+#: inc/theme-options-extend/theme-options.php:2104
+msgid "Footer column 2 width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:1993
+#: inc/theme-options-extend/theme-options.php:2105
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Enter custom width for second footer column. Please enter percentage, e.g., "
+"%s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2007
+#: inc/theme-options-extend/theme-options.php:2119
+msgid "Footer column 3 width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2008
+#: inc/theme-options-extend/theme-options.php:2120
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Enter custom width for third footer column. Please enter percentage, e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2022
+#: inc/theme-options-extend/theme-options.php:2134
+msgid "Footer column 4 width"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2023
+#: inc/theme-options-extend/theme-options.php:2135
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Enter custom width for fourth footer column. Please enter percentage, e.g., "
+"%s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2037
+msgid "Footer Second Level"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2149
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2164
+msgid "Text align"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2165
+msgid "Text align for widgets in copyright area."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2211
+msgid "Separator color"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2212
+msgid "Choose color for copyright area separator."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2227
+msgid "Choose text color for your copyright area widget content."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2242
+msgid "Color for links located in your copyright area widgets."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2286
+msgid "Default post layout"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2287
+#: inc/theme-options-extend/theme-options.php:2817
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Full width content %1$s 2. Content / Right sidebar %1$s 3. Content / Left "
+"sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2301
+msgid "Default post header style"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2302
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Simple style %1$s 2. Featured image in pre-content area %1$s 3. Featured "
+"image with title overlay in pre-content area %1$s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2349
+msgid "Activates dark gradient overlay for background image."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2378
+msgid "Custom date and time format"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2379
+msgid ""
+"i.e. \"Just Now\", \"5 minutes ago\" or \"3 days ago\". After 7 days date "
+"and time are displayed."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2392
+msgid "Open read more links from top"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2393
+msgid "Makes read more link open post at the top."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2406
+msgid "Enable post content sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2421
+msgid "Elements"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2436
+msgid "Show post category"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2437
+#: inc/theme-options-extend/theme-options.php:3350
+msgid "Do you want to display category in post meta fields?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2451
+msgid "Post author in meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2452
+#: inc/theme-options-extend/theme-options.php:3365
+msgid "Do you want to display author in post meta fields?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2466
+msgid "Post date in meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2467
+#: inc/theme-options-extend/theme-options.php:3380
+msgid "Do you want to display date in post meta fields?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2481
+msgid "Comments link in meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2482
+#: inc/theme-options-extend/theme-options.php:3395
+msgid "Do you want to display comment count in post meta fields?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2496
+msgid "Post views count in meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2497
+#: inc/theme-options-extend/theme-options.php:3410
+msgid ""
+"Do you want to display post views count in post meta fields? Requires Mag | "
+"Theme Core Extend plugin to be installed."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2511
+msgid "Previous &amp; next post link"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2512
+msgid ""
+"Do you want to display next and previous post links on single blog post page?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2526
+msgid "Post tags after content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2527
+msgid "Display post tags on single post page?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2541
+msgid "Post author description after content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2542
+msgid ""
+"When ON, author info box will only appear for those post authors who have "
+"\"Biographical Info\" field filled!"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2556
+msgid "Keep Reading"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2571
+msgid "Enable more posts"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2572
+msgid "Loads full related posts after the current post content."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2586
+msgid "How many posts to display?"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2587
+msgid "Choose total number of posts to load after the current post."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2633
+msgid "Order"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2634
+msgid "Choose display order of the related posts."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2660
+msgid "Order by"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2661
+msgid "Choose order type of the related posts."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2732
+#: inc/theme-options-extend/theme-options.php:3101
+#: inc/theme-options-extend/theme-options.php:3774
+msgid "Offset"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2733
+msgid "Number of post to displace or pass over."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2747
+msgid "Post relation"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2748
+msgid "Choose how posts should be related to the current post."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2774
+msgid "Taxonomy relation"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2775
+msgid ""
+"The logical relationship between categories and tags. If \"OR\" - related "
+"post must be at least in one of the current post's category OR tag. If \"AND"
+"\" - related post must be at least in one of the current post's category AND "
+"ALSO tag."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2816
+msgid "Blog page layout"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2831
+msgid "Blog page title"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2832
+msgid "Choose whether to display or hide blog page title."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:2847
+msgid "Use custom page title styles for blog page."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3072
+msgid "Insert any custom code you wish. Shortcodes allowed."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3086
+msgid "Exclude category from blog"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3087
+msgid ""
+"This option will exclude selected category posts from blog and search pages."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3102
+#: inc/theme-options-extend/theme-options.php:3775
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Number of post to displace or pass over. Example (to pass two posts enter): "
+"%s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3116
+msgid "Pagination type"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3117
+msgid "Enable ajax \"Load more\" button on blog/archive pages"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3131
+msgid "Numeric Pagination"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3136
+msgid "Load More Button"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3141
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3148
+msgid "Blog Post Display"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3163
+#: inc/theme-options-extend/theme-options.php:3623
+msgid "Post style"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3164
+msgid "Choose your post style."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3178
+msgid "Image above content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3183
+msgid "Content over image"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3188
+msgid "Image on the left"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3195
+#: inc/theme-options-extend/theme-options.php:3659
+msgid "Post column count"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3210
+#: inc/theme-options-extend/theme-options.php:3679
+msgid "One column"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3215
+msgid "Two columns"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3220
+msgid "Three columns"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3227
+#: inc/theme-options-extend/theme-options.php:3738
+msgid "Content type"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3228
+#: inc/theme-options-extend/theme-options.php:3739
+msgid ""
+"Choose what to display on blog index pages. Note that only 'Full Content' "
+"respects WordPress 'read more' tag."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3242
+#: inc/theme-options-extend/theme-options.php:3757
+msgid "None"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3247
+#: inc/theme-options-extend/theme-options.php:3762
+msgid "Excerpt"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3252
+#: inc/theme-options-extend/theme-options.php:3767
+msgid "Full content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3259
+#: inc/theme-options-extend/theme-options.php:3696
+msgid "Custom post title size"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3260
+#: inc/theme-options-extend/theme-options.php:3697
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Set optional custom post title size for your selected design. Please add "
+"size units, e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3274
+#: inc/theme-options-extend/theme-options.php:3710
+msgid "Custom post title size on mobile"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3275
+#: inc/theme-options-extend/theme-options.php:3711
+#, php-format
+msgctxt "%s stands for example value. Do not delete it."
+msgid ""
+"Set optional custom post title size for mobile screens starting at 767px. "
+"Please add size units, e.g., %s"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3289
+msgid "Blog Post Elements"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3304
+msgid "Post image"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3305
+msgid ""
+"Do you want to display post featured image? Works with default post style."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3319
+msgid "Default post image"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3320
+msgid ""
+"This is the default image applied to all posts that do not have featured "
+"image set."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3334
+msgid "Post review rating (stars)"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3335
+msgid ""
+"Do you want to display star rating in post meta fields? Requires Mag | Theme "
+"Core Extend plugin to be installed."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3349
+msgid "Post category in blog meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3364
+msgid "Post author in blog meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3379
+msgid "Post date in blog meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3394
+msgid "Post comments in blog meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3409
+msgid "Post views count in blog meta"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3424
+msgid "Enable blog loop content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3425
+msgid "Add custom content after each post."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3439
+msgid "Blog loop content"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3440
+msgid ""
+"Add your custom shortcode or html, e.g., sharing or advertisement. This "
+"content will be placed after each post in this loop."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3454
+msgid "Category style"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3455
+msgid "Style any category different from default."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3469
+msgid "Select category"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3470
+msgid "Choose category to style."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3483
+msgid "Category title"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3484
+msgid "Choose whether to display or hide category title."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3498
+msgid "Use custom page title styles for category."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3624
+msgid "Choose custom post style."
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3637
+#: inc/theme-options-extend/theme-options.php:3674
+#: inc/theme-options-extend/theme-options.php:3752
+msgid "Inherit from blog settings"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3647
+msgid "Image overlay"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3652
+msgid "Image left"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3684
+msgid "Two column"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3689
+msgid "Three column"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3724
+msgid "Category page layout"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3725
+#, php-format
+msgctxt "%1$s stands for line break"
+msgid ""
+"1. Default - inherit from blog settings %1$s 2. Full width content %1$s 3. "
+"Content / Right sidebar %1$s 4. Content / Left sidebar"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3788
+msgid "Loop content from blog options"
+msgstr ""
+
+#: inc/theme-options-extend/theme-options.php:3789
+msgid "Enable loop content settings set in blog options. "
+msgstr ""
+
+#: inc/theme-setup.php:26
+msgid "Main Navigation Left"
+msgstr ""
+
+#: inc/theme-setup.php:27
+msgid "Main Navigation Right"
+msgstr ""
+
+#: inc/theme-setup.php:28
+msgid "Side Navigation"
+msgstr ""
+
+#: inc/theme-setup.php:29
+msgid "Mobile Navigation"
+msgstr ""
+
+#: inc/theme-setup.php:35
+msgid "Click here to assign menu!"
+msgstr ""
+
+#: index.php:50 index.php:64 index.php:101 index.php:115
+msgid "Load More Articles"
+msgstr ""
+
+#: index.php:50 index.php:64 index.php:101 index.php:115
+msgid "Loading Articles..."
+msgstr ""
+
+#: index.php:50 index.php:64 index.php:101 index.php:115
+msgid "No More Articles to Load"
+msgstr ""
+
+#: searchform.php:8
+msgid "Type and hit enter to search ..."
+msgstr ""
+
+#: searchform.php:8
+msgid "Search..."
+msgstr ""
+
+#: sidebar-blog.php:13 sidebar-single.php:13 sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: single-ads.php:8
+msgid "This post type can not be previewed."
+msgstr ""
+
+#: title.php:34 title.php:100
+msgid "Blog"
+msgstr ""
+
+#: title.php:103
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: title.php:106
+msgid "404"
+msgstr ""

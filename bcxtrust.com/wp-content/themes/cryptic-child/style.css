@@ -1,0 +1,70 @@
+/*
+Theme Name: Cryptic Child
+Theme URI: http://modeltheme.com/mt_bitcurrency/
+Template: cryptic
+Author: ModelTheme
+Author URI: http://modeltheme.com/
+Description: BitCurrency - Cryptocurrency WordPress Theme
+Version: 1.0
+Text Domain: cryptic
+Tags: custom-header, custom-menu, featured-images, post-formats, sticky-post
+*/
+
+.inner-page-para p{
+	color: #666666; 
+	font-size: 15px; 
+	line-height: 25px; 
+	font-weight: 400;
+}
+.inner-page-para ol{
+	color: #666666; 
+	font-size: 15px; 
+	line-height: 25px; 
+	font-weight: 400;
+	
+}
+h2.number-txt{
+	padding-top: 2px; 
+	margin-right: 35px;
+	text-align: left;
+    float: left;
+    color: #ffd600;
+    font-size: 55px;
+}
+
+.inner-page-para-main p{
+color: #ffffff; 
+font-size: 15px; 
+line-height: 25px; 
+font-weight: 400;
+text-align: center;
+}
+
+.wpb_row {
+    margin-bottom: 0 !important; 
+}
+
+.high-padding {
+     padding: 0 0 !important; 
+}
+
+.background-img.vc_row {
+    background-size: contain !important;
+}
+
+
+@media (min-width: 1200px){
+.container {
+    width: 100%;
+}
+body.single-post article.high-padding {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+body.home #page div.high-padding {
+    margin-left: 30px;
+    padding-right: 30px !important;
+    margin-top: 30px;
+}
+}

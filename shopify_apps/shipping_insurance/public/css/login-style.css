@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  color: #767676;
+  line-height: normal;
+  vertical-align: baseline;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 10px 0 15px;
+}
+
+.loging-page {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #fff;
+  background-position: center bottom;
+  height: 100vh;
+  padding-top: 12.5%;
+}
+
+.login-page {
+  text-align: center;
+  margin: 0px auto;
+  width: 100%;
+  box-shadow: 0 0 3px 0px rgba(0,0,0,0.15);
+  max-width: 640px;
+  background: rgba(249,249,249,0.65);
+  padding: 20px 25px 35px;
+  border: 1px #ececec solid;
+  border-radius: 3px;
+}
+p.subtitle {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 0 0 15px;
+}
+
+.subtitle span {
+  display: block;
+}
+p.subtitle a {
+  background-color: #72b058;
+  color: #fff;
+  text-decoration: none;
+  margin: 10px 0 0;
+  border: 1px transparent solid;
+  display: inline-block;
+  padding: 17px 30px;
+  font-size: 18px;
+  text-transform: capitalize;
+  transition: all 300ms ease-in-out 0s;
+  -o-transition: all 300ms ease-in-out 0s;
+  -ms-transition: all 300ms ease-in-out 0s;
+  -moz-transition: all 300ms ease-in-out 0s;
+  -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+p.subtitle a:hover{
+  background-color: transparent;
+  border-color: #72b058;
+  color: #72b058;
+}
+
+.install-app-form{
+  text-align: left;
+}
+
+.input-group {
+  position: relative;
+  width: 100%;
+  display: table;
+  margin-top: 5px;
+  border-collapse: separate;
+}
+
+.install-app-form .input-group-addon {
+  display: table-cell;
+}
+
+.install-app-form .input-group-addon input{
+  background-color: #72b058;
+  border: 1px solid #72b058;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  text-align: center;
+  padding: 0 30px;
+}
+
+.install-app-form input {
+  position: relative;
+  z-index: 2;
+  float: left;
+  font-size: 15px;
+  width: 100%;
+  margin-bottom: 0;
+  display: table-cell;
+  border: 1px #72b058 solid;
+  min-height: 40px;
+  padding: 0 15px;
+}
+
+.install-app-form input:focus{
+  outline: 0 none;
+}

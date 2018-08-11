@@ -1,0 +1,96 @@
+<?php
+/*
+Template Name: Bit Coin template
+*/
+
+get_header();
+?>
+
+<?php
+
+require_once('Bit-Coin/includes/config.php');
+require_once('Bit-Coin/includes/class/main.class.php');
+
+$main = New Main();
+
+$data = json_decode($main->jsonCache('3000', 'ads'), 2)['data']['ad_list'];
+
+?>
+<div class="hero">
+    <div class="container">
+        <h1>The easiest way to buy Bitcoin online</h1>
+        <p>Buy Bitcoin online in any country, supporting 80+ payment methods</p>
+        <div class="buttons">
+            <div class="row">
+                <form method="post" action="<?php echo site_url(); ?>/buy-crypto/buy-bitcoin/bit-coin-search/" class="form-inline">
+                    <div id="custom-search-input">
+                        <div class="form-group">
+                            <h4>Buy Bitcoin in</h4>
+                        </div>
+                        <div class="input-group">
+                            <div class="form-group">
+                              <select class="selectpicker" name="country" data-live-search="true" data-size="5">
+                                <?php foreach($countries as $k => $v) {
+                                  $append = ($k == 'US') ? 'selected' : '';
+                                  echo '<option value="' . $k . '" ' . $append . '>' . $v . '</option>';
+                                } ?>
+                              </select>
+                            </div>
+                            <div class="form-group">
+                                <h4>via</h4>
+                            </div>
+                            <div class="form-group">
+                                <select class="selectpicker" name="payment" data-live-search="true" data-size="5">
+                                  <?php foreach($methods as $k => $v) {
+                                    $append = ($k == 'western-union') ? 'selected' : '';
+                                    echo '<option value="' . $k . '" ' . $append . '>' . $v . '</option>';
+                                  } ?>
+                                </select>
+                            </div>
+                            <input class="btn btn-green" type="submit" value="Find offers">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <span class="curve"></span>
+</div>
+<section id="recent">
+<div class="container content">
+  <h2>Recent Bitcoin Listings</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Seller</th>
+                <th>Payment Method</th>
+                <th>Price / BTC</th>
+                <th>Buy Now</th>
+            </tr>
+        </thead>
+        <tbody>
+<?php
+
+foreach($data as $item) {
+  echo '<tr><th>' . $item['data']['profile']['name'] . '</th><td>' . $payments[$item['data']['online_provider']] . '</td><th class="text-success">' . $item['data']['temp_price_usd'] . '</th><td><a href="' . $site_config['website_url'] . '/listing/?listing=' . $item['data']['ad_id'] . '" class="btn btn-green btn-xs btn-block" target="_blank">Buy now</a></td></tr>';
+}
+ ?>
+ </tbody>
+ </table>
+</div>
+</section>
+<section id="products">
+</section>
+
+<?php get_footer(); ?>
+
+<div class="float-widget">
+  <a href="<?php echo site_url(); ?>/buy-crypto/buy-bitcoin/faucets/" class="btn btn-green btn-lg btn-round"><i class="fa fa-btc" aria-hidden="true"></i> Free Bitcoin</a>
+</div>
+
+
+
+
+
+
+

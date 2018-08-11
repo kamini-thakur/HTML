@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^faucets$ faucets.php [NC]
+RewriteRule ^products$ products.php [NC]
+RewriteRule ^listing/(.*)$ listing.php?listing=$1 [NC]

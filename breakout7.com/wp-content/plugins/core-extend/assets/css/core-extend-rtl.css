@@ -1,0 +1,696 @@
+/*
+This file will be loaded in site front-end only when RTL direction is enabled.
+*/
+
+
+/* Button */
+
+.mnky_button {
+    margin-left: 10px;
+	margin-right: auto;
+}
+
+.mnky_button:last-child {
+    margin-left: 0;
+	margin-right: auto;
+}
+
+.mnky_button a i {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+/* Button 2 */
+
+.vc_btn3, a.vc_btn3, button.vc_btn3 {
+    margin-left: 10px;
+	margin-right: auto;
+}
+
+/* Service Box */
+
+.mnky_service-box {
+    text-align: right;
+}
+
+.mnky_service-box .service_icon {
+    float: right;
+}
+
+.mnky_service-box i {
+    margin-right: 5px;
+	margin-left: auto;
+}
+
+.mnky_service-box .service-content {
+    margin-right: 65px;
+    padding-left: 5px;
+	padding-right: 0;
+	margin-left: auto;
+}
+
+/* Service Box Right Align */
+
+.mnky_service-box.sb_left .service-content {
+    margin-left: 65px;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+.mnky_service-box.sb_left {
+    text-align: left;
+}
+
+.mnky_service-box.sb_left .service_icon {
+    float: left;
+}
+
+.mnky_service-box.sb_left i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+/* Service Box Center Align */
+
+.mnky_service-box.sb_center .service-content {
+    margin-right: 0;
+    padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+}
+
+.mnky_service-box.sb_center i {
+    margin-right: 0px;
+	margin-left: auto;
+}
+
+/* List */
+
+.mnky_custom-list-item {
+    margin-right: 30px;
+	margin-left: auto;
+}
+
+.mnky_custom-list-item i {
+    margin-right: -30px;
+    text-align: right;
+    padding-right: 1px;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.li_medium.mnky_custom-list-item {
+    margin-right: 40px;
+	margin-left: auto;
+}
+
+.li_medium.mnky_custom-list-item i {
+    margin-right: -40px;
+	margin-left: auto;
+}
+
+.li_large.mnky_custom-list-item {
+    margin-right: 70px;
+	margin-left: auto;
+}
+
+.li_large.mnky_custom-list-item i {
+    margin-right: -70px;
+    float: right;
+	margin-left: auto;
+}
+
+/* Progress bar */
+
+.vc_progress_bar .vc_single_bar .vc_label {
+    text-align: right;
+}
+
+.vc_label_units {
+    padding-right: 4px;
+	padding-left: 0;
+}
+
+/* Toggle */
+
+.vc_toggle_default.vc_toggle_active .vc_toggle_title .vc_toggle_icon:after {
+    margin-right: -2px;
+	margin-left: auto;
+}
+
+.vc_toggle_size_md.vc_toggle_simple .vc_toggle_title, .vc_toggle_size_md.vc_toggle_round .vc_toggle_title, .vc_toggle_size_md.vc_toggle_rounded .vc_toggle_title, .vc_toggle_size_md.vc_toggle_square .vc_toggle_title, .vc_toggle_size_md.vc_toggle_simple .vc_toggle_content, .vc_toggle_size_md.vc_toggle_round .vc_toggle_content, .vc_toggle_size_md.vc_toggle_rounded .vc_toggle_content, .vc_toggle_size_md.vc_toggle_square .vc_toggle_content {
+    padding-right: 40px;
+	padding-left: 0;
+}
+
+/* Commercial */
+
+.commercial .label {
+    text-align: left;
+}
+
+/* Article Block */
+
+.mp-container .mp-title>a:first-child {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.mp-container .mp-title a:only-child {
+    margin-left: 0px;
+	margin-right: auto;
+}
+
+.mp-article-interaction-meta>span {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.mp-article-interaction-meta>span:last-child {
+    margin-left: 0px;
+	margin-right: auto;
+}
+
+.mp-article-interaction-meta .icon-views {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+.mp-article-interaction-meta .icon-comments {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+/* Article Block - Layout 3 - Image on the right */
+
+.mp-layout-2 .mp-container .mp-image-url {
+    float: right;
+}
+
+.mp-layout-2 .mp-container .mp-content-container {
+    margin-right: 42%;
+    margin-right: calc(40% + 30px);
+	margin-left: auto;
+}
+
+/* Article Block - Layout 3 - List */
+
+.mp-layout-3 .mp-container .article-labels {
+    left: auto;
+	right: auto;
+}
+
+.mp-layout-3 .mp-container .mp-post-format {
+    right: auto;
+	left: auto;
+}
+
+.mp-layout-3 .mp-container .mp-post-nr {
+    float: right;
+    margin-left: 20px;
+	margin-right: auto;
+}
+
+.mp-layout-3 .mp-container.numbered-post .mp-content-container {
+    margin-right: 70px;
+	margin-left: auto;
+}
+
+/* Article Block - Layout 4 - List with image */
+
+.mp-layout-4 .mp-container .mp-image-url {
+    float: right;
+}
+
+.mp-layout-4 .mp-container .mp-content-container {
+    margin-right: 120px;
+	margin-left: auto;
+}
+
+.mp-layout-4 .mp-container .article-labels {
+    left: auto;
+	right: auto;
+}
+
+.mp-layout-4 .mp-container .mp-post-format {
+    right: auto;
+	left: auto;
+}
+
+.mp-layout-4 .mp-container .mp-post-nr {
+    right: 0px;
+	left: auto;
+}
+
+/* Article Block- Layout 5 - image overlay */
+
+.mp-layout-5 .mp-content-container {
+    right: 10px;
+    left: 10px;
+}
+
+.mp-layout-5 .mp-title, .mp-layout-5 .mp-category, .mp-layout-5 .mp-article-meta, .mp-layout-5 .mp-full-content p, .mp-layout-5 .mp-excerpt p, .mp-layout-5 .mp-rating-wrapper {
+    right: 0;
+	left: auto;
+}
+
+.mp-layout-5 .mp-full-content.has-more p:nth-last-child(2) {
+    margin-left: 10px;
+	margin-right: auto;
+}
+
+/* Article Block Columns */
+
+.mnky-posts.column-count-2, .mnky-posts.column-count-3, .mnky-posts.column-count-4, .mnky-posts.column-count-5, .mnky-posts.column-count-6 {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.column-count-2 .mp-container {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.column-count-3 .mp-container {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.column-count-4 .mp-container {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.column-count-5 .mp-container {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.column-count-6 .mp-container {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* Ajax carousel & load more */
+
+.mp-ajax-loader {
+    right: 50%;
+    margin-right: -12px;
+	left: auto;
+	margin-left: auto;
+}
+
+/* Video & Gallery format */
+
+.mp-post-format {
+    right: 10px;
+	left: auto;
+}
+
+.mp-post-format i {
+    float: right;
+}
+
+/* News ticker */
+
+.mnky-news-ticker ul {
+    float: right;
+}
+
+.mnt-title {
+    float: right;
+}
+
+.mnt-pagination {
+    float: left;
+    padding-left: 20px;
+	padding-right: 0;
+}
+
+.mnt-pagination a.mnt-back {
+    margin-left: 5px;
+	margin-right: auto;
+}
+
+/* Menu posts */
+
+#site-navigation .mnky-menu-posts .menu-post-container {
+    padding-right: 15px;
+    padding-left: 15px;
+    float: right;
+}
+
+#site-navigation .mnky-menu-posts .menu-post-container:last-child {
+    margin-left: 0%;
+	margin-right: auto;
+}
+
+#site-navigation .mnky-menu-posts .rating-overlay .mp-rating-wrapper {
+    right: 0px;
+	left: auto;
+}
+
+/* Post slider */
+
+.mnky-posts-slider .flex-direction-nav a {
+    transition: right .3s ease, left .3s ease, box-shadow 0.2s linear;
+}
+
+.mps-title>a:first-child {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.mps-title a:only-child {
+    margin-left: 0px;
+	margin-right: auto;
+}
+
+.mps-article-meta span {
+    margin-left: 10px;
+	margin-right: auto;
+}
+
+.mps-article-meta span:last-child {
+    margin-left: 0;
+	margin-right: auto;
+}
+
+.mps-article-interaction-meta>span {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.mps-article-interaction-meta>span:last-child {
+    margin-left: 0px;
+	margin-right: auto;
+}
+
+.mps-article-interaction-meta .icon-views {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+.mps-article-interaction-meta .icon-comments {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+/* Related posts */
+
+.mnky-related-posts .related-post-container {
+    float: right;
+}
+
+.mnky-related-posts .related-post-container:last-child {
+    margin-left: 0%;
+	margin-right: auto;
+}
+
+#sidebar .mnky-related-posts .related-post-container:nth-child(even) {
+    margin-left: 0%;
+	margin-right: auto;
+}
+
+/* Posts grid */
+
+.mnky-posts-grid .mpg-item {
+    float: right;
+    border-right: 5px solid #fff;
+	border-left: none;
+}
+
+.mnky-posts-grid .mpg-item:first-child {
+    border-right: none;
+	border-left: none;
+}
+
+.mnky-posts-grid .mpg-item .mpg-content {
+    right: 10px;
+    left: 10px;
+}
+
+.mnky-posts-grid .mpg-title {
+    right: 0;
+	left: auto;
+}
+
+.mnky-posts-grid .mpg-title>a:first-child {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.mnky-posts-grid .mpg-title a:only-child {
+    margin-left: 0px;
+	margin-right: auto;
+}
+
+.mnky-posts-grid .mpg-category {
+    margin-right: -10px;
+	margin-left: auto;
+}
+
+
+/* -------------------------------------------------------------------------------------------
+* ALL DEVICES INCLUDING SMALL DESKTOPS
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (max-width: 1200px) {
+	/* Article Block */
+	.column-count-6 .mp-container {
+		width: 33.33%;
+	}
+	.column-count-6 .mp-container:nth-child(6n+1) {
+		clear: none;
+	}
+	.column-count-6 .mp-container:nth-child(3n+1) {
+		clear: both;
+	}
+	.column-count-5 .mp-container {
+		width: 50%;
+	}
+	.column-count-5 .mp-container:nth-child(5n+1) {
+		clear: none;
+	}
+	.column-count-5 .mp-container:nth-child(odd) {
+		clear: both;
+	}
+	/* Post Grid */
+	.mpg-layout-1 .mpg-item-1 .mpg-title, .mpg-layout-2 .mpg-item-1 .mpg-title, .mpg-layout-2 .mpg-item-2 .mpg-title, .mpg-layout-3 .mpg-item-1 .mpg-title, .mpg-layout-3 .mpg-item-2 .mpg-title, .mpg-layout-4 .mpg-item .mpg-title, .mpg-layout-5 .mpg-item .mpg-title, .mpg-layout-6 .mpg-item-1 .mpg-title, .mpg-layout-7 .mpg-item .mpg-title {
+		font-size: 24px;
+	}
+}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* ALL DEVICES INCLUDING TABLET LANDSCAPE
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (max-width: 1024px) {}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* TABLET LANDSCAPE ONLY
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (min-width: 980px) and (max-width: 1024px) {}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* ALL DEVICES STARTING TABLET PORTRAIT
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (max-width: 979px) {
+	/* Column in pre-content area */
+	.vc_responsive .pre-content .vc_row .wpb_column:last-child {
+		margin-bottom: 0 !important;
+	}
+	/* Removing too much space from spacer element */
+	.vc_empty_space {
+		max-height: 150px !important;
+	}
+	/* Advertisements */
+	.site-commerc .commercial.responsive-hide {
+		display: none;
+	}
+	.site-commerc .commercial.responsive-show {
+		display: block;
+	}
+	/* Article Block */
+	.column-count-4 .mp-container {
+		width: 50%;
+	}
+	.column-count-4 .mp-container:nth-child(4n+1) {
+		clear: none;
+	}
+	.column-count-4 .mp-container:nth-child(odd) {
+		clear: both;
+	}
+	/* Post Grid */
+	.mnky-posts-grid .mpg-item {
+		width: 50%;
+		height: 350px !important;
+	}
+	.mnky-posts-grid .mpg-item:nth-child(2n+1) {
+		border-right: none;
+		border-left: none;
+	}
+	.mnky-posts-grid .mpg-item .mpg-title {
+		font-size: 24px;
+	}
+	/* Post Slider */
+	.mnky-posts-slider .flex-direction-nav {
+		left: 0px;
+		right: auto;
+	}
+	.mnky-posts-slider .flexslider .flex-direction-nav .flex-prev {
+		right: auto;
+		left: 0px;
+	}
+	.mnky-posts-slider .flexslider .flex-direction-nav .flex-next {
+		left: 35px;
+		right: auto;
+	}
+}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* TABLET PORTRAIT ONLY
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* MOBILE BOTH VIEWS
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (max-width: 767px) {
+	/* Removing too much space from spacer element */
+	.vc_empty_space {
+		max-height: 60px !important;
+	}
+	#main .vc_empty_space {
+		max-height: 60px !important;
+	}
+	/* Article Block */
+	.column-count-2 .mp-container, .column-count-3 .mp-container, .column-count-4 .mp-container, .column-count-5 .mp-container, .column-count-6 .mp-container {
+		width: 100%;
+	}
+	.mp-container .mp-title {
+		font-size: 24px;
+	}
+	.mp-layout-2 .mp-container .mp-image-url {
+		width: 100%;
+		float: none;
+		margin-bottom: 20px;
+	}
+	.mp-layout-2 .mp-container .mp-content-container {
+		margin-right: 0;
+		margin-left: auto;
+	}
+	/* Post Grid */
+	.mnky-posts-grid .mpg-item {
+		width: 100%;
+		border-right: none;
+		border-left: none;
+	}
+	.mnky-posts-grid .mpg-item .mpg-title {
+		font-size: 18px;
+	}
+	/* Related Posts */
+	.mnky-related-posts .related-post-container {
+		margin-bottom: 20px;
+	}
+	.mnky-related-posts .related-post-container:last-child {
+		margin-bottom: 0px;
+	}
+	.mrp-2 .related-post-container, .mrp-3 .related-post-container, .mrp-4 .related-post-container, .mrp-5 .related-post-container, .mrp-6 .related-post-container {
+		width: 100%;
+	}
+	/* News Ticker */
+	.mnky-news-ticker {
+		height: auto;
+		text-align: center;
+		background: none;
+	}
+	.mnt-title {
+		display: block;
+		float: none;
+	}
+	.mnky-news-ticker ul {
+		float: none;
+		height: 50px;
+	}
+	.mnky-news-ticker li {
+		width: 100%;
+		background: #f8f8f8;
+		box-sizing: border-box;
+	}
+	.mnt-pagination {
+		display: none;
+	}
+}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* MOBILE LANDSCAPE ONLY
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+
+/*
+* -------------------------------------------------------------------------------------------
+* MOBILE PORTRAIT & LOWER
+* -------------------------------------------------------------------------------------------
+*/
+
+@media only screen and (max-width: 479px) {
+	/* Article Block */
+	.mp-layout-4 .mp-container .mp-image-url {
+		max-width: auto;
+		float: none;
+		margin-bottom: 20px;
+	}
+	.mp-layout-4 .mp-container .mp-content-container {
+		margin-right: 0px;
+		margin-left: auto;
+	}
+	/* Category Element */
+	.mnky_category figcaption span {
+		font-size: 18px;
+		line-height: 33px;
+	}
+	/* Buttons */
+	.mnky_button {
+		margin-left: 0;
+		margin-right: auto;
+	}
+	/* Related Posts */
+	#sidebar .related-post-container {
+		float: none;
+		width: 100%;
+	}
+}
+
+/* Made by the RTL-er.com - http://www.rtl-er.com */

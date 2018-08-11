@@ -1,0 +1,87 @@
+/*---------------------------------------------------------------*/
+/* Admin welcome pages
+/*---------------------------------------------------------------*/
+
+.mnky-wrap table.mnky_status_table .help span {
+	right: -110px;
+	left: auto;
+}
+
+.mnky-wrap .importer-notice {
+	border-right: 4px solid #46b450;
+	border-left: none;
+}
+
+.mnky-wrap .importer-notice.error-notice {
+	border-right: 4px solid #dc3232;
+	border-left: none;
+}
+
+
+/* Importing data loader */
+
+.loading {
+	left: -55px;
+	right: auto;
+}
+
+
+/*---------------------------------------------------------------*/
+/* Option tree style edit
+/*---------------------------------------------------------------*/
+
+/* General style */
+
+#page-ot_theme_options #option-tree-settings-api>.ui-tabs {
+	box-shadow: inset -200px 0 0 #f6f7f8, 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+#page-ot_theme_options button.reset-settings {
+	right: 10px;
+	left: auto;
+}
+
+
+/* Inner tabs */
+
+#page-ot_theme_options.wrap.settings-wrap .inside .ui-tabs-nav li {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+/* Title style */
+
+#option-tree-settings-api .description h3, #option-tree-settings-api .format-setting-label .label, .metabox-holder .format-setting-label .label {
+	padding-right: 25px !important;
+	padding-left: 0;
+}
+
+#option-tree-settings-api .description h3:before, #option-tree-settings-api .format-setting-label .label:before, .metabox-holder .format-setting-label .label:before {
+	right: 0;
+	left: auto;
+}
+
+
+/* Description style */
+
+.format-setting .description:before {
+	margin-right: -25px;
+	margin-left: 10px;
+}
+
+
+/* Buttons */
+
+.js-add-google-font.button-primary, .js-add-google-font.button-primary:active, .js-add-google-font.button-primary:focus {
+	margin-right: 0px !important;
+	margin-left: auto;
+}
+
+.category-styles-wrap .button-primary, .category-styles-wrap .button-primary:active, .category-styles-wrap .button-primary:focus {
+	margin-right: 0px;
+	margin-left: auto;
+}
+
+
+/* Made by the RTL-er.com - http://www.rtl-er.com */
